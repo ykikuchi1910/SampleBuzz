@@ -2,7 +2,7 @@ public class FizzBuzz {
 // 1から整数を数える
 // 3で割り切れる = Fizz
 // 5で割り切れる = Buzz
-// 15で割り切れる = FizzBuzz
+// 15（３または５）で割り切れる = FizzBuzz
     public static void main(String[] args){
         // 見出し表示の出力
         System.out.println("実行例");
